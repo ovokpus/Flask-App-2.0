@@ -1,0 +1,5 @@
+.flaskenv
+migrations/
+__pycache__/
+venv/
+paws.db
